@@ -1,0 +1,10 @@
+-- application url in browser --
+http://localhost:8787/welcome
+http://localhost:8787/reservationQuery
+http://localhost:8787/reservationForm
+http://localhost:8787/employees
+
+
+
+
+
